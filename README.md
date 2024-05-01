@@ -1,2 +1,2 @@
 # utility_functions
-a few standard functions that are utilised in numerous Python projects.
+Few standard functions that are utilized in numerous Python projects.
